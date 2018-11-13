@@ -1,0 +1,10 @@
+			@font-face {
+				font-family: 'sf-display';
+				font-style: normal;
+				src: url('/wp-content/uploads/useanyfont/180606103329SF-Display.eot');
+				src: local('sf-display'), url('/wp-content/uploads/useanyfont/180606103329SF-Display.eot') format('embedded-opentype'), url('/wp-content/uploads/useanyfont/180606103329SF-Display.woff') format('woff');
+			}
+            
+            .et_gf_sf-display{background:none !important;font-family:sf-display;text-indent:0 !important;font-size:25px;}
+            
+		
